@@ -1,6 +1,7 @@
 <div align="center">
 <h1>Quiz Game</h1>
-<h4>Projeto desenvolvido para testar minhas habilidades com o framework Vuejs.<br> Jogue e divirta-se</h4><br>
+  <p>Projeto desenvolvido para testar minhas habilidades com o framework Vuejs.
+    Nessa aplicação utilizei uma API pública para fazer a requisição das perguntas. <strong>Jogue e divirta-se!</strong></p><br>
 
 ![Captura de tela 2022-12-17 110858](https://user-images.githubusercontent.com/100080203/208246002-0c3faf79-6332-469c-b8f6-fb4f4c18cfe6.png)
 
